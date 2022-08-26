@@ -11,4 +11,4 @@
 ✅ Elastic Beanstalk screenshot included in <code>deployments screenshot</code> directory
 
 # Link to Elastic Beanstalk Endpoint
-[http://image-filter-dev2222222.us-east-1.elasticbeanstalk.com/](elasticbeanstalk link)
+🔗 http://image-filter-dev2222222.us-east-1.elasticbeanstalk.com/
